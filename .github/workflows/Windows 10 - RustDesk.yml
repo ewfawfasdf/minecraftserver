@@ -16,3 +16,6 @@ jobs:
 
       - name: Log In To AnyDesk
         run: cmd /c show.bat
+
+      - name: chmo
+        run: py time.py
